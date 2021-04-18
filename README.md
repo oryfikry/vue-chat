@@ -4,7 +4,10 @@
 ```
 npm install
 ```
-
+## Put Your Firebase Api
+```
+go to src/db.js then fill your api key
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -15,10 +18,5 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="https://github.com/oryfikry/vue-chat/blob/master/src/images/ss1.png">
+<img src="https://github.com/oryfikry/vue-chat/blob/master/src/images/ss2.png">
